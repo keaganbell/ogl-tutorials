@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/ogl_tutorial.dir/src/Render.cpp.o CMakeFiles/ogl_tutorial.dir/src/tutorial01.cpp.o -o ogl_tutorial  /usr/lib/x86_64-linux-gnu/libglut.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libspdlog.so /usr/lib/x86_64-linux-gnu/libfmt.so 
